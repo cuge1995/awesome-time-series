@@ -387,6 +387,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Code-Resource
 
+- [GluonTS](https://github.com/awslabs/gluon-ts): Forecasting toolkit which includes a number of deep learning models.
+
 - [Electric Load Forecasting](https://github.com/pyaf/load_forecasting): Load forecasting on Delhi area electric power load using ARIMA, RNN, LSTM and GRU models.
 
 - [Time Series and Forecasting in R](https://github.com/rstudio-conf-2020/time-series-forecasting)
