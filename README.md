@@ -18,14 +18,12 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ### 2020
 
-- [Harmonic Recurrent Process for Time Series Forecasting](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/ecai20hr.pdf)](https://www.researchgate.net/publication/339362837)
-
+- [Harmonic Recurrent Process for Time Series Forecasting](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/ecai20hr.pdf)]
   - Shao-Qun Zhang and Zhi-Hua Zhou.
 
   - Code not yet.
 
-- Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://github.com/huawei-noah/BHT-ARIMA)```AAAI 2020```](https://www.researchgate.net/publication/339362837)
-
+- Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://github.com/huawei-noah/BHT-ARIMA)```AAAI 2020```]
   - QIQUAN SHI, et al.
   - Code not yet
 
