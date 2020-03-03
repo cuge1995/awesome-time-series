@@ -23,7 +23,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
   - Code not yet.
 
-- Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://github.com/huawei-noah/BHT-ARIMA)```AAAI 2020```]
+- [Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://github.com/huawei-noah/BHT-ARIMA)```AAAI 2020```
   - QIQUAN SHI, et al.
   - Code not yet
 
