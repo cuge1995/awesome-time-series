@@ -1,11 +1,14 @@
-# Awesome Time Series
+
+
 [![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-List of state of the art papers focus on deep learning and resources, code and experiments using deep learning for time series forecasting. Classic methods vs Deep Learning methods.
+List of state of the art papers, code, and other resources focus on time series forecasting. 
 
 ## [Table of Contents]()
 
+* [M4 competition](#M4 competition)
+* [Kaggle time series competition](#Kaggle time series competition)
 * [Papers](#Papers)
 * [Conferences](#Conferences)
 * [Code](#Code)
@@ -13,12 +16,37 @@ List of state of the art papers focus on deep learning and resources, code and e
 * [Code Resource](#Code-Resource)
 * [Datasets](#Datasets)
 
+## M4 competition
+
+#### [code](https://github.com/Mcompetitions/M4-methods)
+
+#### papers
+
+* [The M4 Competition: 100,000 time series and 61 forecasting methods](https://www.sciencedirect.com/science/article/pii/S0169207019301128)
+* [A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting](https://www.sciencedirect.com/science/article/pii/S0169207019301153)
+* [Weighted ensemble of statistical models](https://www.sciencedirect.com/science/article/pii/S0169207019301190#b5)
+* [FFORMA: Feature-based forecast model averaging](https://www.sciencedirect.com/science/article/pii/S0169207019300895)
+
+
+
+## Kaggle time series competition
+
+* [Walmart Store Sales Forecasting (2014)](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
+* [Walmart Sales in Stormy Weather (2015)](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)
+* [Rossmann Store Sales (2015)](https://www.kaggle.com/c/rossmann-store-sales)
+* [Wikipedia Web Traffic Forecasting (2017)](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
+* [Corporación Favorita Grocery Sales Forecasting (2018)](https://www.kaggle.com/c/favorita-grocery-sales-forecasting)
+* [Recruit Restaurant Visitor Forecasting (2018)](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
+
+
+
+
 
 ## Papers
 
 ### 2020
 
-- [Harmonic Recurrent Process for Time Series Forecasting](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/ecai20hr.pdf)]
+- [Harmonic Recurrent Process for Time Series Forecasting](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/ecai20hr.pdf)
   - Shao-Qun Zhang and Zhi-Hua Zhou.
 
   - Code not yet.
@@ -178,14 +206,9 @@ List of state of the art papers focus on deep learning and resources, code and e
   - Code not yet.
 
 - [You May Not Need Order in Time Series Forecasting](https://arxiv.org/pdf/1910.09620.pdf)
-
-  - Yunkai Zhang, et al.
+- Yunkai Zhang, et al.
   - Code not yet
-
-  <p align="center">
-  <img src="https://github.com/Alro10/deep-learning-time-series/blob/master/YMN_order.png" alt="alt text" width="80%" height="60%">
-  </p>
-
+  
 - [Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning](https://arxiv.org/pdf/1909.08181.pdf) `AAAI 2020`
 
   - Long H. Nguyen, et al.
@@ -347,6 +370,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 - [ARIMA/SARIMA vs LSTM with Ensemble learning Insights for Time Series Data](https://towardsdatascience.com/arima-sarima-vs-lstm-with-ensemble-learning-insights-for-time-series-data-509a5d87f20a)
 
 
+
 ## Conferences
 
 - Machine learning
@@ -364,10 +388,7 @@ List of state of the art papers focus on deep learning and resources, code and e
  - Competitions
     * [M5 Competition](https://mofc.unic.ac.cy/m5-competition/)
 
-## Code
 
-- [Notebooks](https://github.com/Alro10/deep-learning-time-series/tree/master/notebooks)
-- [Code]()
 
 ## Theory-Resource
 
@@ -384,6 +405,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 - [Time Series Analysis with Deep Learning : Simplified](https://towardsdatascience.com/time-series-analysis-with-deep-learning-simplified-5c444315d773)
 
 - [ML techniques applied to stock prices](https://towardsdatascience.com/machine-learning-techniques-applied-to-stock-price-prediction-6c1994da8001)
+
+
 
 ## Code-Resource
 
@@ -424,6 +447,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 - https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting
 
 - [Predicting/hypothesizing the findings of the M4 Competition](https://www.sciencedirect.com/science/article/pii/S0169207019301098)
+
+
 
 ## Datasets
 
