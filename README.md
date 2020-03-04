@@ -452,6 +452,8 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ## Datasets
 
+- [Beijing PM2.5 Data Set](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pollution.csv)
+
 - [Airline Passengers dataset](https://github.com/jbrownlee/Datasets/blob/master/airline-passengers.csv)
 
 - [Electricity dataset from UCI](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014)
