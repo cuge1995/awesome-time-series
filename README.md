@@ -7,8 +7,8 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ## [Table of Contents]()
 
-* [M4 competition](#M4 competition)
-* [Kaggle time series competition](#Kaggle time series competition)
+* [M4 competition](#M4-competition)
+* [Kaggle time series competition](#Kaggle-time-series-competition)
 * [Papers](#Papers)
 * [Conferences](#Conferences)
 * [Code](#Code)
@@ -16,7 +16,7 @@ List of state of the art papers, code, and other resources focus on time series 
 * [Code Resource](#Code-Resource)
 * [Datasets](#Datasets)
 
-## M4 competition
+## M4-competition
 
 #### [code](https://github.com/Mcompetitions/M4-methods)
 
@@ -29,7 +29,7 @@ List of state of the art papers, code, and other resources focus on time series 
 
 
 
-## Kaggle time series competition
+## Kaggle-time-series-competition
 
 * [Walmart Store Sales Forecasting (2014)](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 * [Walmart Sales in Stormy Weather (2015)](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)
