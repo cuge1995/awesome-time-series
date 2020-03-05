@@ -376,6 +376,8 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ## Conferences
 
+- Forecasting
+  * [ISF](https://isf.forecasters.org/)
 - Machine learning
    * [NeurIPS](https://nips.cc/)
    * [ICML](https://icml.cc/)
