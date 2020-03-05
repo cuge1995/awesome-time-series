@@ -349,6 +349,8 @@ List of state of the art papers focus on deep learning and resources, code and e
 
 ## Conferences
 
+- Forecasting
+  * [ISF](https://isf.forecasters.org/)
 - Machine learning
    * [NeurIPS](https://nips.cc/)
    * [ICML](https://icml.cc/)
