@@ -46,9 +46,12 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ### 2020
 
+- [Meta-learning framework with applications to zero-shot time-series forecasting](https://arxiv.org/pdf/2002.02887.pdf)
+  - Oreshkin, et al.
+  - Code not yet.
+
 - [Harmonic Recurrent Process for Time Series Forecasting](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/ecai20hr.pdf)
   - Shao-Qun Zhang and Zhi-Hua Zhou.
-
   - Code not yet.
 
 - [Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://github.com/huawei-noah/BHT-ARIMA)```AAAI 2020```
