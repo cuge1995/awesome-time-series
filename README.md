@@ -46,6 +46,10 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ### 2020
 
+- [Modeling time series when some observations are zero](https://www.researchgate.net/profile/Andrew_Harvey5/publication/335035033_Modeling_time_series_when_some_observations_are_zero/links/5d5ea1d5a6fdcc55e81ff273/Modeling-time-series-when-some-observations-are-zero.pdf)```Journal of Econometrics 2020```
+  - Andrew Harveyand Ryoko Ito.
+  - Code not yet
+
 - [Meta-learning framework with applications to zero-shot time-series forecasting](https://arxiv.org/pdf/2002.02887.pdf)
   - Oreshkin, et al.
   - Code not yet.
