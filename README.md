@@ -135,6 +135,10 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ### 2019
 
+- [A Review of Deep Learning Models for Time Series Prediction](https://ieeexplore.ieee.org/abstract/document/8742529/authors#authors)```IEEE Sensors Journal 2019```
+  - Han, et al.
+  - Code not yet
+
 - [Similarity Preserving Representation Learning for Time Series Clustering](https://arxiv.org/pdf/1702.03584.pdf)
 
   - Qi Lei, et al.
