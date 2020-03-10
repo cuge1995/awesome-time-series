@@ -135,6 +135,12 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ### 2019
 
+- [Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting](http://papers.nips.cc/paper/8730-think-globally-act-locally-a-deep-neural-network-approach-to-high-dimensional-time-series-forecasting.pdf)
+
+  - Sen, et al.
+  - ```Amazon research```
+  - [[Code](https://github.com/rajatsen91/deepglo)]
+
 - [A Review of Deep Learning Models for Time Series Prediction](https://ieeexplore.ieee.org/abstract/document/8742529/authors#authors)```IEEE Sensors Journal 2019```
   - Han, et al.
   - Code not yet
