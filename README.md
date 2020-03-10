@@ -135,7 +135,7 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ### 2019
 
-- [Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting](http://papers.nips.cc/paper/8730-think-globally-act-locally-a-deep-neural-network-approach-to-high-dimensional-time-series-forecasting.pdf)
+- [Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting](http://papers.nips.cc/paper/8730-think-globally-act-locally-a-deep-neural-network-approach-to-high-dimensional-time-series-forecasting.pdf)`NeurIPS 2019`
 
   - Sen, et al.
   - ```Amazon research```
