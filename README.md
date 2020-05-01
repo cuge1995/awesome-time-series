@@ -45,6 +45,10 @@ List of state of the art papers, code, and other resources focus on time series 
 ## Papers
 
 ### 2020
+- [Neural forecasting: Introduction and literature overview](https://arxiv.org/pdf/2004.10240.pdf)
+  - Benidis, et al.
+  - `Amazon Research`
+  - Code not yet.
 
 - [Time Series Data Augmentation for Deep Learning: A Survey](https://arxiv.org/pdf/2002.12478.pdf)
   - Wen, et al.
