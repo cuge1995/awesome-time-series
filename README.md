@@ -46,12 +46,15 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ### 2020
 
+- [Time Series Data Augmentation for Deep Learning: A Survey](https://arxiv.org/pdf/2002.12478.pdf)
+  - Wen, et al.
+  - Code not yet
+
 - [Neural Controlled Differential Equations forIrregular Time Series](https://arxiv.org/pdf/2005.08926.pdf)
 
   - Patrick Kidger, et al.
   - `University of Oxford`
   - [[Code](https://github.com/patrick-kidger/NeuralCDE)]
-
 
 
 - [Time Series Forecasting With Deep Learning: A Survey](https://arxiv.org/pdf/2004.13408.pdf)
