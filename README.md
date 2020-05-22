@@ -46,8 +46,8 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ### 2020
 
-- [Time Series Data Augmentation for Deep Learning: A Survey](https://arxiv.org/pdf/2002.12478.pdf)
-  - Wen, et al.
+- [RobustTAD: Robust Time Series Anomaly Detection viaDecomposition and Convolutional Neural Networks](https://arxiv.org/pdf/2002.09545v1.pdf)
+  - Gao, et al.
   - Code not yet
 
 - [Neural Controlled Differential Equations forIrregular Time Series](https://arxiv.org/pdf/2005.08926.pdf)
