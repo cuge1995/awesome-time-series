@@ -46,6 +46,10 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ### 2020
 
+- [Connecting the Dots: Multivariate Time Series Forecasting withGraph Neural Networks](https://128.84.21.199/pdf/2005.11650.pdf)
+  - Wu, et al.
+  - [[Code](https://github.com/nnzhan/MTGNN)]
+
 - [Forecasting with sktime: Designing sktime's New Forecasting API and Applying It to Replicate and Extend the M4 Study](https://arxiv.org/pdf/2005.08067.pdf)
   - Löning, et al.
   - Code not yet
