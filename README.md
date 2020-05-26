@@ -46,6 +46,10 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ### 2020
 
+- [Forecasting with sktime: Designing sktime's New Forecasting API and Applying It to Replicate and Extend the M4 Study](https://arxiv.org/pdf/2005.08067.pdf)
+  - Löning, et al.
+  - Code not yet
+
 - [RobustTAD: Robust Time Series Anomaly Detection viaDecomposition and Convolutional Neural Networks](https://arxiv.org/pdf/2002.09545v1.pdf)
   - Gao, et al.
   - Code not yet
