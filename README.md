@@ -461,6 +461,10 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ## Code-Resource
 
+- [A collection of time series prediction methods: rnn, seq2seq, cnn, wavenet, transformer, unet, n-beats, gan, kalman-filter](https://github.com/LongxingTan/Time-series-prediction)
+
+- [Implementation of Transformer model (originally from Attention is All You Need) applied to Time Series](https://github.com/maxjcohen/transformer)
+
 - [GluonTS](https://github.com/awslabs/gluon-ts): Forecasting toolkit which includes a number of deep learning models.
 
 - [Electric Load Forecasting](https://github.com/pyaf/load_forecasting): Load forecasting on Delhi area electric power load using ARIMA, RNN, LSTM and GRU models.
