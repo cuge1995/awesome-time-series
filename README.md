@@ -6,14 +6,12 @@ List of state of the art papers, code, and other resources focus on time series 
 * [Kaggle time series competition](#Kaggle-time-series-competition)
 * [Papers](#Papers)
 * [Conferences](#Conferences)
-* [Code](#Code)
 * [Theory-Resource](#Theory-Resource)
 * [Code Resource](#Code-Resource)
 * [Datasets](#Datasets)
 
 ## M4-competition
-
-#### [code](https://github.com/Mcompetitions/M4-methods)
+[M4](https://github.com/Mcompetitions/M4-methods)
 
 #### papers
 
@@ -179,6 +177,29 @@ List of state of the art papers, code, and other resources focus on time series 
 - [Implementation of Transformer model (originally from Attention is All You Need) applied to Time Series](https://github.com/maxjcohen/transformer)
 
 - [Predicting/hypothesizing the findings of the M4 Competition](https://www.sciencedirect.com/science/article/pii/S0169207019301098)
+
+- [PyFlux](https://github.com/RJT1990/pyflux)
+
+- [Time Series Forecasting Best Practices & Examples](https://github.com/microsoft/forecasting)
+
+- [List of tools & datasets for anomaly detection on time-series data](https://github.com/rob-med/awesome-TS-anomaly-detection)
+
+- [python packages for time series analysis](https://github.com/MaxBenChrist/awesome_time_series_in_python)
+
+- [A scikit-learn compatible Python toolbox for machine learning with time series](https://github.com/alan-turing-institute/sktime)
+
+- [time series visualization tools](https://github.com/facontidavide/PlotJuggler)
+
+- [A statistical library designed to fill the void in Python's time series analysis capabilities](https://github.com/alkaline-ml/pmdarima)
+
+- [RNN based Time-series Anomaly detector model implemented in Pytorch](https://github.com/chickenbestlover/RNN-Time-series-Anomaly-Detection)
+
+- [ARCH models in Python](https://github.com/bashtage/arch)
+
+- [A Python toolkit for rule-based/unsupervised anomaly detection in time series](https://github.com/arundo/adtk)
+
+- [A curated list of awesome time series databases, benchmarks and papers](https://github.com/xephonhq/awesome-time-series-database)
+
 
 
 
