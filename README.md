@@ -39,6 +39,15 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ### 2020
 
+
+- [Active Model Selection for Positive Unlabeled Time Series Classification](https://www.researchgate.net/profile/Shen_Liang7/publication/341691181_Active_Model_Selection_for_Positive_Unlabeled_Time_Series_Classification/links/5ed4ef09458515294527ad45/Active-Model-Selection-for-Positive-Unlabeled-Time-Series-Classification.pdf)
+  - Liang, et al.
+  - [[Code](https://github.com/sliang11/Active-Model-Selection-for-PUTSC)]
+
+- [Unsupervised Phase Learning and Extraction from Quasiperiodic Multidimensional Time-series Data](https://authors.elsevier.com/a/1b54P5aecShD%7EW)
+  - Prayook, et al.
+  - [[Code](https://github.com/koonyook/unsupervised-phase-supplementary)]
+
 - [Connecting the Dots: Multivariate Time Series Forecasting withGraph Neural Networks](https://128.84.21.199/pdf/2005.11650.pdf)
   - Wu, et al.
   - [[Code](https://github.com/nnzhan/MTGNN)]
