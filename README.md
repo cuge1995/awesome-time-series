@@ -205,16 +205,44 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ## Datasets
 
-- [Beijing PM2.5 Data Set](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pollution.csv)
+- [U.S. Air Pollution Data](https://data.world/data-society/us-air-pollution-data)
 
-- [Airline Passengers dataset](https://github.com/jbrownlee/Datasets/blob/master/airline-passengers.csv)
+- [U.S. Chronic Disease Data](https://data.world/data-society/us-chronic-disease-data)
+
+- [Air quality from UCI](http://archive.ics.uci.edu/ml/datasets/Air+Quality)
+
+- [Seattle freeway traffic speed](https://github.com/zhiyongc/Seattle-Loop-Data)
+
+- [Youth Tobacco Survey Data](https://data.world/data-society/youth-tobacco-survey-data)
+
+- [Singapore Population](https://data.world/hxchua/populationsg)
+
+- [Airlines Delay](https://data.world/data-society/airlines-delay)
+
+- [Airplane Crashes](https://data.world/data-society/airplane-crashes)
 
 - [Electricity dataset from UCI](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014)
 
 - [Traffic dataset from UCI](https://archive.ics.uci.edu/ml/datasets/PEMS-SF)
 
-- [Air quality from UCI](http://archive.ics.uci.edu/ml/datasets/Air+Quality)
+- [City of Baltimore Crime Data](https://data.world/data-society/city-of-baltimore-crime-data)
 
-- [Seattle freeway traffic speed](https://github.com/zhiyongc/Seattle-Loop-Data)
+- [Discover The Menu](https://data.world/data-society/discover-the-menu)
+
+- [Global Climate Change Data](https://data.world/data-society/global-climate-change-data)
+
+- [Global Health Nutrition Data](https://data.world/data-society/global-health-nutrition-data)
+
+- [Beijing PM2.5 Data Set](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pollution.csv)
+
+- [Airline Passengers dataset](https://github.com/jbrownlee/Datasets/blob/master/airline-passengers.csv)
+
+- [Government Finance Statistics](https://data.world/data-society/government-finance-statistics)
+
+- [Historical Public Debt Data](https://data.world/data-society/historical-public-debt-data)
+
+- [Kansas City Crime Data](https://data.world/data-society/kansas-city-crime-data)
+
+- [NYC Crime Data](https://data.world/data-society/nyc-crime-data)
 
 - [Kaggle-Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
