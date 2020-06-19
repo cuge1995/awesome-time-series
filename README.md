@@ -117,57 +117,43 @@ List of state of the art papers, code, and other resources focus on time series 
   - Debarun Bhattacharjya, et al.
   - `Research AI, IBM`
   - Code not yet.
-  
-- [Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values](https://arxiv.org/pdf/1911.10273.pdf)```AAAI 2020```
 
-  - Xianfeng Tang, et al.
-  - ```IBM Research, NY```
-  - Code not yet.
-  
-- [Topology-Based Clusterwise Regression for User Segmentation and Demand Forecasting](https://ieeexplore.ieee.org/abstract/document/8964133)
-
-  - Rodrigo Rivera-Castro, et al.
-  - Code not yet.
   
 
 
 ## Conferences
 
-- Forecasting
-  * [ISF](https://isf.forecasters.org/)
-- Machine learning
+   * [ICLR](https://iclr.cc/)
+   * [AAAI](https://www.aaai.org/)
+   * [IJCAI](https://www.ijcai.org/)
+   * [ISF](https://isf.forecasters.org/)
    * [NeurIPS](https://nips.cc/)
    * [ICML](https://icml.cc/)
-   * [ICLR](https://iclr.cc/)
-
-- Artificial intelligence
-   * [AAAI](https://www.aaai.org/)
-   * [AISTATS](https://www.aistats.org/)
-   * [ICANN](https://e-nns.org/icann2019/)   
-   * [IJCAI](https://www.ijcai.org/)
-   * [UAI](http://www.auai.org/)
-
- - Competitions
-    * [M5 Competition](https://mofc.unic.ac.cy/m5-competition/)
+   * [M5 Competition](https://mofc.unic.ac.cy/m5-competition/)
 
 
 
 ## Theory-Resource
 
-- [Deep learning for high dimensional time series-blog](https://towardsdatascience.com/deep-learning-for-high-dimensional-time-series-7a72b033a7e0)
+- [Time Series Analysis, MIT](https://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/)
 
-- [Deep Learning AI-Optimization](https://deeplearning.ai/ai-notes/optimization/)
+- [Time Series Forecasting, Udacity](https://www.udacity.com/course/time-series-forecasting--ud980)
 
-- [Backpropagation for LSTM](https://towardsdatascience.com/back-to-basics-deriving-back-propagation-on-simple-rnn-lstm-feat-aidan-gomez-c7f286ba973d)
+- [Practical Time Series Analysis, Cousera](https://www.coursera.org/learn/practical-time-series-analysis)
 
-- [Stock Market Prediction by Recurrent Neural Network on LSTM Model](https://blog.usejournal.com/stock-market-prediction-by-recurrent-neural-network-on-lstm-model-56de700bff68)
+- [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 
-- [Decoupling Hierarchical Recurrent Neural Networks With Locally Computable Losses](https://arxiv.org/pdf/1910.05245.pdf)
+- [Intro to Time Series Analysis in R, Cousera](https://www.coursera.org/projects/intro-time-series-analysis-in-r)
 
-- [Time Series Analysis with Deep Learning : Simplified](https://towardsdatascience.com/time-series-analysis-with-deep-learning-simplified-5c444315d773)
+- [Anomaly Detection in Time Series Data with Keras, Corsera](https://www.coursera.org/projects/anomaly-detection-time-series-keras)
 
-- [ML techniques applied to stock prices](https://towardsdatascience.com/machine-learning-techniques-applied-to-stock-price-prediction-6c1994da8001)
+- [Applying Data Analytics in Finance, Coursera](https://www.coursera.org/learn/applying-data-analytics-business-in-finance)
 
+- [Time Series Forecasting using Python](https://courses.analyticsvidhya.com/courses/creating-time-series-forecast-using-python)
+
+- [STAT 510: Applied Time Series Analysis, PSU](https://online.stat.psu.edu/statprogram/stat510)
+
+- [Policy Analysis Using Interrupted Time Series, edx](https://www.edx.org/course/policy-analysis-using-interrupted-time-series)
 
 
 ## Code-Resource
