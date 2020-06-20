@@ -167,6 +167,8 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ## Code-Resource
 
+- [Seglearn: A Python Package for Learning Sequences and Time Series](https://dmbee.github.io/seglearn/)
+
 - [cesium: Open-Source Platform for Time Series Inference](https://github.com/cesium-ml/cesium)
 
 - [A collection of time series prediction methods: rnn, seq2seq, cnn, wavenet, transformer, unet, n-beats, gan, kalman-filter](https://github.com/LongxingTan/Time-series-prediction)
