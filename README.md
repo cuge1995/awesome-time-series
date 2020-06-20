@@ -39,6 +39,9 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ### 2020
 
+- [Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline]( https://arxiv.org/abs/2002.10061) `classification` 
+  - Tang, et al.
+  - [[Code](https://github.com/Wensi-Tang/OS-CNN/)]
 
 - [Active Model Selection for Positive Unlabeled Time Series Classification](https://www.researchgate.net/profile/Shen_Liang7/publication/341691181_Active_Model_Selection_for_Positive_Unlabeled_Time_Series_Classification/links/5ed4ef09458515294527ad45/Active-Model-Selection-for-Positive-Unlabeled-Time-Series-Classification.pdf)
   - Liang, et al.
