@@ -174,6 +174,8 @@ List of state of the art papers, code, and other resources focus on time series 
 
 - [cesium: Open-Source Platform for Time Series Inference](https://github.com/cesium-ml/cesium)
 
+- [PyTorch Forecasting: A Python Package for time series forecasting with PyTorch](https://github.com/jdb78/pytorch-forecasting)
+
 - [A collection of time series prediction methods: rnn, seq2seq, cnn, wavenet, transformer, unet, n-beats, gan, kalman-filter](https://github.com/LongxingTan/Time-series-prediction)
 
 - [Implementation of Transformer model (originally from Attention is All You Need) applied to Time Series](https://github.com/maxjcohen/transformer)
