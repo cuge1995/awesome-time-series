@@ -204,6 +204,7 @@ List of state of the art papers, code, and other resources focus on time series 
 
 - [A curated list of awesome time series databases, benchmarks and papers](https://github.com/xephonhq/awesome-time-series-database)
 
+- [Matrix Profile analysis methods in Python for clustering, pattern mining, and anomaly detection](https://github.com/matrix-profile-foundation/matrixprofile) 
 
 
 
