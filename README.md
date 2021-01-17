@@ -39,6 +39,11 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ### 2020
 
+
+- [Deep reconstruction of strange attractors from time series](https://proceedings.neurips.cc/paper/2020/hash/021bbc7ee20b71134d53e20206bd6feb-Abstract.html) `NeurIPS 2020` 
+  - Gilpin, et al.
+  - [[Code](https://github.com/williamgilpin/fnn)]
+
 - [Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline]( https://arxiv.org/abs/2002.10061) `classification` 
   - Tang, et al.
   - [[Code](https://github.com/Wensi-Tang/OS-CNN/)]
