@@ -40,6 +40,14 @@ List of state of the art papers, code, and other resources focus on time series 
 ### 2020
 
 
+- [Adversarial Sparse Transformer for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/file/c6b8c8d762da15fa8dbbdfb6baf9e260-Paper.pdf) `NeurIPS 2020` 
+  - Wu, et al.
+  - Code not yet 
+
+- [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://arxiv.org/pdf/2010.13924) `NeurIPS 2020` 
+  - Ismail, et al.
+  - [[Code](https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark)]
+
 - [Deep reconstruction of strange attractors from time series](https://proceedings.neurips.cc/paper/2020/hash/021bbc7ee20b71134d53e20206bd6feb-Abstract.html) `NeurIPS 2020` 
   - Gilpin, et al.
   - [[Code](https://github.com/williamgilpin/fnn)]
