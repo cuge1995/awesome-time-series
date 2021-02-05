@@ -37,6 +37,12 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ## Papers
 
+### 2021
+- [Coupled Layer-wise Graph Convolution for Transportation Demand Prediction](https://arxiv.org/pdf/2012.08080.pdf) `AAAI 2021` 
+  - Ye, et al.
+  - [Code](https://github.com/Essaim/CGCDemandPrediction) 
+
+
 ### 2020
 
 
