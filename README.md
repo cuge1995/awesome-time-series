@@ -38,6 +38,12 @@ List of state of the art papers, code, and other resources focus on time series 
 ## Papers
 
 ### 2021
+
+
+- [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2012.07436) `AAAI 2021 best paper` 
+  - Zhou, et al.
+  - [Code](https://github.com/zhouhaoyi/Informer2020) 
+
 - [Coupled Layer-wise Graph Convolution for Transportation Demand Prediction](https://arxiv.org/pdf/2012.08080.pdf) `AAAI 2021` 
   - Ye, et al.
   - [Code](https://github.com/Essaim/CGCDemandPrediction) 
