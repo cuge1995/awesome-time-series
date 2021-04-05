@@ -39,6 +39,9 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ### 2021
 
+- [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/abs/2101.02815) `WSDM 2021` 
+  - Deshpande, et al.
+  - [Code](https://github.com/pratham16cse/DualTPP)
 
 - [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2012.07436) `AAAI 2021 best paper` 
   - Zhou, et al.
