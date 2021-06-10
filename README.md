@@ -39,6 +39,10 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ### 2021
 
+- [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://arxiv.org/abs/2105.04100) `ICML 2021` 
+  - Chen, et al.
+  - [Code](https://github.com/Z-GCNETs/Z-GCNETs)
+
 - [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/abs/2101.02815) `WSDM 2021` 
   - Deshpande, et al.
   - [Code](https://github.com/pratham16cse/DualTPP)
