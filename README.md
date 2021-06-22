@@ -39,6 +39,9 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ### 2021
 
+- [Deep Learning for Time Series Forecasting: A Survey](https://www.liebertpub.com/doi/pdfplus/10.1089/big.2020.0159) `survey` 
+  -  Torres, et al.
+
 - [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://arxiv.org/abs/2105.04100) `ICML 2021` 
   - Chen, et al.
   - [Code](https://github.com/Z-GCNETs/Z-GCNETs)
