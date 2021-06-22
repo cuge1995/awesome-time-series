@@ -42,6 +42,10 @@ List of state of the art papers, code, and other resources focus on time series 
 - [Deep Learning for Time Series Forecasting: A Survey](https://www.liebertpub.com/doi/pdfplus/10.1089/big.2020.0159) `survey` 
   -  Torres, et al.
 
+- [Whittle Networks: A Deep Likelihood Model for Time Series](https://www.ml.informatik.tu-darmstadt.de/papers/yu2021icml_wspn.pdf) `ICML 2021` 
+  - Yu, et al.
+  - [Code](https://github.com/ml-research/WhittleNetworks)
+
 - [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://arxiv.org/abs/2105.04100) `ICML 2021` 
   - Chen, et al.
   - [Code](https://github.com/Z-GCNETs/Z-GCNETs)
