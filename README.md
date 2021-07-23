@@ -66,6 +66,10 @@ List of state of the art papers, code, and other resources focus on time series 
 ### 2020
 
 
+- [Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/download/6032/5888) `AAAI 2020` 
+  - Shi, et al.
+  - Code not yet 
+
 - [Adversarial Sparse Transformer for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/file/c6b8c8d762da15fa8dbbdfb6baf9e260-Paper.pdf) `NeurIPS 2020` 
   - Wu, et al.
   - Code not yet 
