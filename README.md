@@ -212,6 +212,7 @@ List of state of the art papers, code, and other resources focus on time series 
 
 
 ## Code-Resource
+- [pyWATTS: Python Workflow Automation Tool for Time-Series](https://github.com/KIT-IAI/pyWATTS)
 
 - [Seglearn: A Python Package for Learning Sequences and Time Series](https://dmbee.github.io/seglearn/)
 
