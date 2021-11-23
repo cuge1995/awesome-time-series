@@ -38,6 +38,29 @@ List of state of the art papers, code, and other resources focus on time series 
 ## Papers
 
 ### 2021
+- [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://openreview.net/forum?id=VzuIzbRDrum) `NeuIPS 2021` 
+  - Yusuke, et al.
+
+- [Variational Inference for Continuous-Time Switching Dynamical Systems](https://openreview.net/forum?id=ake1XpIrDKN) `NeuIPS 2021` 
+  - Lukas, et al.
+
+- [MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data](https://openreview.net/forum?id=VeZQA9KdjMK) `NeuIPS 2021` 
+  - Zhu, et al.
+
+- [Coresets for Time Series Clustering](https://openreview.net/forum?id=jar9C-V8GH) `NeuIPS 2021` 
+  - Zhou, et al.
+
+
+- [Online false discovery rate control for anomaly detection in time series](https://openreview.net/forum?id=NvN_B_ZEY5c) `NeuIPS 2021` 
+  - Quentin, et al.
+
+
+- [Adjusting for Autocorrelated Errors in Neural Networks for Time Series](https://openreview.net/forum?id=tJ_CO8orSI) `NeuIPS 2021` 
+  - Sun, et al.
+
+
+- [Deep Explicit Duration Switching Models for Time Series](https://openreview.net/forum?id=jar9C-V8GH) `NeuIPS 2021` 
+  - Zhou, et al.
 
 - [Deep Learning for Time Series Forecasting: A Survey](https://www.liebertpub.com/doi/pdfplus/10.1089/big.2020.0159) `survey` 
   -  Torres, et al.
