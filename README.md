@@ -41,6 +41,9 @@ List of state of the art papers, code, and other resources focus on time series 
 - [Probabilistic Transformer For Time Series Analysis](https://openreview.net/forum?id=HfpNVDg3ExA) `NeuIPS 2021` 
   - Tang, et al.
 
+- [Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting](https://papers.nips.cc/paper/2021/file/bcc0d400288793e8bdcd7c19a8ac0c2b-Paper.pdf) `NeuIPS 2021` 
+  - Wu, et al.
+
 - [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://openreview.net/forum?id=VzuIzbRDrum) `NeuIPS 2021` 
   - Yusuke, et al.
 
