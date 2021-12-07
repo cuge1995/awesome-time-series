@@ -239,6 +239,8 @@ List of state of the art papers, code, and other resources focus on time series 
 
 - [Policy Analysis Using Interrupted Time Series, edx](https://www.edx.org/course/policy-analysis-using-interrupted-time-series)
 
+- [Time Series Forecasting in Python](https://www.manning.com/books/time-series-forecasting-in-python-book)
+
 
 ## Code-Resource
 - [FOST from microsoft](https://github.com/microsoft/FOST)
