@@ -38,6 +38,10 @@ List of state of the art papers, code, and other resources focus on time series 
 ## Papers
 
 ### 2021
+
+- [A machine learning approach for forecasting hierarchical time series](https://www.sciencedirect.com/science/article/pii/S0957417421005431)
+  - Mancuso, et al.
+
 - [Probabilistic Transformer For Time Series Analysis](https://openreview.net/forum?id=HfpNVDg3ExA) `NeuIPS 2021` 
   - Tang, et al.
 
