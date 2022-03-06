@@ -31,7 +31,7 @@ List of state of the art papers, code, and other resources focus on time series 
 * [Corporación Favorita Grocery Sales Forecasting (2018)](https://www.kaggle.com/c/favorita-grocery-sales-forecasting)
 * [Recruit Restaurant Visitor Forecasting (2018)](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
 * [COVID19 Global Forecasting (2020)](https://www.kaggle.com/c/covid19-global-forecasting-week-5)
-
+* [Jane Street Future Market Prediction(2021)](https://www.kaggle.com/c/jane-street-market-prediction/)
 
 
 
