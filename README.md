@@ -38,7 +38,9 @@ List of state of the art papers, code, and other resources focus on time series 
 ## Papers
 
 ### 2022
-- coming soon
+- [Transformers in Time Series: A Survey](https://arxiv.org/pdf/2202.07125) `review` 
+  - Wen, et al.
+  - [Code](https://github.com/qingsongedu/time-series-transformers-review)
 
 
 ### 2021
