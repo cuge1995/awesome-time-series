@@ -297,6 +297,8 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ## Datasets
 
+- [SkyCam: A Dataset of Sky Images and their Irradiance values](https://github.com/vglsd/SkyCam)
+
 - [U.S. Air Pollution Data](https://data.world/data-society/us-air-pollution-data)
 
 - [U.S. Chronic Disease Data](https://data.world/data-society/us-chronic-disease-data)
