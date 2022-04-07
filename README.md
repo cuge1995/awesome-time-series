@@ -42,6 +42,10 @@ List of state of the art papers, code, and other resources focus on time series 
   - Wen, et al.
   - [Code](https://github.com/qingsongedu/time-series-transformers-review)
 
+- [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting ](https://arxiv.org/pdf/2202.07125) `ICLR 2022 oral` 
+  - Liu, et al.
+
+
 
 ### 2021
 
