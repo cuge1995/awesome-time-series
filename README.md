@@ -255,6 +255,7 @@ List of state of the art papers, code, and other resources focus on time series 
 
 - [Time Series Forecasting in Python](https://www.manning.com/books/time-series-forecasting-in-python-book)
 
+- [time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)
 
 ## Code-Resource
 - [FOST from microsoft](https://github.com/microsoft/FOST)
