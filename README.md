@@ -298,7 +298,7 @@ List of state of the art papers, code, and other resources focus on time series 
 
 - [Matrix Profile analysis methods in Python for clustering, pattern mining, and anomaly detection](https://github.com/matrix-profile-foundation/matrixprofile) 
 
-[Flow Forecast: A deep learning framework for time series forecasting, classification, and anomaly detection built in PyTorch](https://github.com/AIStream-Peelout/flow-forecast)
+- [Flow Forecast: A deep learning framework for time series forecasting, classification and anomaly detection built in PyTorch](https://github.com/AIStream-Peelout/flow-forecast)
 
 
 ## Datasets
