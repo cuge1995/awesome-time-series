@@ -39,16 +39,16 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ### 2022
 
-- [Conditional Loss and Deep Euler Scheme for Time Series Generation]  `AAAI 2022`
+- [Conditional Loss and Deep Euler Scheme for Time Series Generation]()  `AAAI 2022`
 
 - [I-SEA: Importance Sampling and Expected Alignment-Based Deep Distance Metric Learning for Time Series
-Analysis and Embedding] `AAAI 2022`
+Analysis and Embedding]() `AAAI 2022`
 
-- [TS2Vec: Towards Universal Representation of Time Series] `AAAI 2022`
+- [TS2Vec: Towards Universal Representation of Time Series]() `AAAI 2022`
 
-- [Reinforcement Learning based Dynamic Model Combination for Time Series Forecasting] `AAAI 2022`
+- [Reinforcement Learning based Dynamic Model Combination for Time Series Forecasting]() `AAAI 2022`
 
-- [CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting] `AAAI 2022`
+- [CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting]() `AAAI 2022`
 
 - [Transformers in Time Series: A Survey](https://arxiv.org/pdf/2202.07125) `review` 
   - Wen, et al.
