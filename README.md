@@ -38,6 +38,31 @@ List of state of the art papers, code, and other resources focus on time series 
 ## Papers
 
 ### 2022
+- [Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting]()  `NeurIPS 2022`
+
+- [Generative Time Series Forecasting with Diffusion, Denoise and Disentanglement]()  `NeurIPS 2022`
+
+- [SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction]()  `NeurIPS 2022`
+
+- [Learning Latent Seasonal-Trend Representations for Time Series Forecasting]()  `NeurIPS 2022`
+
+- [GT-GAN: General Purpose Time Series Synthesis with Generative Adversarial Networks]()  `NeurIPS 2022`
+
+- [Causal Disentanglement for Time Series]()  `NeurIPS 2022`
+
+- [Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency]()  `NeurIPS 2022`
+
+- [FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting]()  `NeurIPS 2022`
+
+- [BILCO: An Efficient Algorithm for Joint Alignment of Time Series]()  `NeurIPS 2022`
+
+- [LSAR: Efficient Leverage Score Sampling Algorithm for the Analysis of Big Time Series Data]()  `NeurIPS 2022`
+
+- [Unsupervised Learning of Algebraic Structure from Stationary Time Sequences]()  `NeurIPS 2022`
+
+- [Dynamic Sparse Network for Time Series Classification: Learning What to “See”]()  `NeurIPS 2022`
+
+- [WaveBound: Dynamically Bounding Error for Stable Time Series Forecasting]()  `NeurIPS 2022`
 
 - [Conditional Loss and Deep Euler Scheme for Time Series Generation]()  `AAAI 2022`
 
