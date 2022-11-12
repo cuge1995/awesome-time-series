@@ -38,6 +38,11 @@ List of state of the art papers, code, and other resources focus on time series 
 ## Papers
 
 ### 2022
+
+- [Deep Learning for Time Series Anomaly Detection: A Survey]() `survey`
+
+- [A Comprehensive Survey of Regression Based Loss Functions for Time Series Forecasting]() `survey`
+
 - [Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting]()  `NeurIPS 2022`
 
 - [Generative Time Series Forecasting with Diffusion, Denoise and Disentanglement]()  `NeurIPS 2022`
