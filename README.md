@@ -328,6 +328,8 @@ Analysis and Embedding]() `AAAI 2022`
 
 - [PyFlux](https://github.com/RJT1990/pyflux)
 
+- [HyperTS: A Full-Pipeline Automated Time Series Analysis Toolkit](https://github.com/DataCanvasIO/HyperTS)
+
 - [Time Series Forecasting Best Practices & Examples](https://github.com/microsoft/forecasting)
 
 - [List of tools & datasets for anomaly detection on time-series data](https://github.com/rob-med/awesome-TS-anomaly-detection)
