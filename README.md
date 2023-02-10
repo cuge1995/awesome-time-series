@@ -314,6 +314,8 @@ Analysis and Embedding]() `AAAI 2022`
 
 - [Seglearn: A Python Package for Learning Sequences and Time Series](https://dmbee.github.io/seglearn/)
 
+- [tsflex: Flexible Time Series Processing & Feature Extraction](https://github.com/predict-idlab/tsflex)
+
 - [cesium: Open-Source Platform for Time Series Inference](https://github.com/cesium-ml/cesium)
 
 - [PyTorch Forecasting: A Python Package for time series forecasting with PyTorch](https://github.com/jdb78/pytorch-forecasting)
@@ -333,6 +335,8 @@ Analysis and Embedding]() `AAAI 2022`
 - [python packages for time series analysis](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 
 - [A scikit-learn compatible Python toolbox for machine learning with time series](https://github.com/alan-turing-institute/sktime)
+
+- [plotly-resampler: Visualize large time series data with plotly.py](https://github.com/predict-idlab/plotly-resampler)
 
 - [time series visualization tools](https://github.com/facontidavide/PlotJuggler)
 
