@@ -37,6 +37,13 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ## Papers
 
+### 2023
+
+- [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](http://arxiv.org/abs/2211.14730) `ICLR 2023`
+  - [[code](https://github.com/yuqinie98/PatchTST)]
+
+
+
 ### 2022
 
 - [Deep Learning for Time Series Anomaly Detection: A Survey]() `survey`
