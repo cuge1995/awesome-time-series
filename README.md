@@ -38,6 +38,9 @@ List of state of the art papers, code, and other resources focus on time series 
 ## Papers
 
 ### 2023
+- [SAITS: Self-Attention-based Imputation for Time Series](https://arxiv.org/abs/2202.08516) `Expert Systems with Applications`
+  - [[code](https://github.com/WenjieDu/SAITS/)]
+
 
 - [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](http://arxiv.org/abs/2211.14730) `ICLR 2023`
   - [[code](https://github.com/yuqinie98/PatchTST)]
@@ -308,6 +311,8 @@ Analysis and Embedding]() `AAAI 2022`
 - [time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)
 
 ## Code-Resource
+- [PyPOTS: A Python Toolbox for Data Mining on Partially-Observed Time Series](https://github.com/WenjieDu/PyPOTS)
+
 - [FOST from microsoft](https://github.com/microsoft/FOST)
 
 - [pyWATTS: Python Workflow Automation Tool for Time-Series](https://github.com/KIT-IAI/pyWATTS)
@@ -358,6 +363,7 @@ Analysis and Embedding]() `AAAI 2022`
 
 
 ## Datasets
+- [TSDB: A Python Toolbox to Ease Loading Open-Source Time-Series Datasets (supporting 119 datasets)](https://github.com/WenjieDu/TSDB)
 
 - [SkyCam: A Dataset of Sky Images and their Irradiance values](https://github.com/vglsd/SkyCam)
 
