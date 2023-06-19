@@ -38,6 +38,11 @@ List of state of the art papers, code, and other resources focus on time series 
 ## Papers
 
 ### 2023
+
+
+- [Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting]([http://arxiv.org/abs/2211.14730](https://openreview.net/pdf?id=vSVLM2j9eie)) `ICLR 2023`
+  - [[code]([https://github.com/Thinklab-SJTU/Crossformer])]
+
 - [SAITS: Self-Attention-based Imputation for Time Series](https://arxiv.org/abs/2202.08516) `Expert Systems with Applications`
   - [[code](https://github.com/WenjieDu/SAITS/)]
 
