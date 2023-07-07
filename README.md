@@ -43,10 +43,11 @@ List of state of the art papers, code, and other resources focus on time series 
 - [MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting](https://openreview.net/pdf?id=zt53IDUR1U) `ICLR 2023 Oral`
   - [[code](https://github.com/wanghq21/MICN)]
 
-
-
 - [Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting](https://openreview.net/pdf?id=vSVLM2j9eie) `ICLR 2023`
   - [[code](https://github.com/Thinklab-SJTU/Crossformer)]
+
+- [Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://openreview.net/pdf?id=sCrnllCtjoE) `ICLR 2023`
+  - [[code](https://https://github.com/BorealisAI/scaleformer)]
 
 - [SAITS: Self-Attention-based Imputation for Time Series](https://arxiv.org/abs/2202.08516) `Expert Systems with Applications`
   - [[code](https://github.com/WenjieDu/SAITS/)]
