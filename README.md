@@ -1,3 +1,8 @@
+<div align="center">
+    <h1>Awesome Time Series</h1>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+</div>
+
 List of state of the art papers, code, and other resources focus on time series forecasting. 
 
 ## [Table of Contents]()
