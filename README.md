@@ -37,6 +37,11 @@ List of state of the art papers, code, and other resources focus on time series 
 
 ## Papers
 
+### 2024 
+- [UniTS: Building a Unified Time Series Model](https://arxiv.org/pdf/2403.00131.pdf) `Arxiv`
+  - [[code](https://github.com/mims-harvard/units)]
+
+
 ### 2023
 
 
