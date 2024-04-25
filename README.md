@@ -38,6 +38,10 @@ List of state of the art papers, code, and other resources focus on time series 
 ## Papers
 
 ### 2024 
+
+- [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/pdf/2403.09898.pdf) `Arxiv`
+  - [[code](https://github.com/Atik-Ahamed/TimeMachine)]
+
 - [UniTS: Building a Unified Time Series Model](https://arxiv.org/pdf/2403.00131.pdf) `Arxiv`
   - [[code](https://github.com/mims-harvard/units)]
 
