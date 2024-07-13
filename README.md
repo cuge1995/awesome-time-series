@@ -45,6 +45,9 @@ List of state of the art papers, code, and other resources focus on time series 
 - [UniTS: Building a Unified Time Series Model](https://arxiv.org/pdf/2403.00131.pdf) `Arxiv`
   - [[code](https://github.com/mims-harvard/units)]
 
+- [Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.06419) `Arxiv`
+  - [[code](https://github.com/ztxtech/Time-Evidence-Fusion-Network)]
+
 
 ### 2023
 
