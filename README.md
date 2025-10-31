@@ -38,6 +38,9 @@ List of state of the art papers, code, and other resources focus on time series 
 ## Papers
 
 ### 2025
+- [Chronos-2: From Univariate to Universal Forecasting](https://www.arxiv.org/abs/2510.15821) `Arxiv`
+  - [[code](https://github.com/amazon-science/chronos-forecasting)]
+  - [[model card](https://huggingface.co/amazon/chronos-2)]
 
 - [LETS Forecast: Learning Embedology for Time Series Forecasting](https://abrarmajeedi.github.io/deep_edm/) `ICML 2025`
   - [[code](https://github.com/abrarmajeedi/DeepEDM)]
