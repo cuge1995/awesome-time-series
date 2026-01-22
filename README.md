@@ -330,6 +330,8 @@ Analysis and Embedding]() `AAAI 2022`
 
 - [Time Series Forecasting using Python](https://courses.analyticsvidhya.com/courses/creating-time-series-forecast-using-python)
 
+- [Time Series Forecasting Using Foundation Models](https://www.manning.com/books/time-series-forecasting-using-foundation-models)
+
 - [STAT 510: Applied Time Series Analysis, PSU](https://online.stat.psu.edu/statprogram/stat510)
 
 - [Policy Analysis Using Interrupted Time Series, edx](https://www.edx.org/course/policy-analysis-using-interrupted-time-series)
