@@ -389,6 +389,8 @@ Analysis and Embedding]() `AAAI 2022`
 
 - [Flow Forecast: A deep learning framework for time series forecasting, classification and anomaly detection built in PyTorch](https://github.com/AIStream-Peelout/flow-forecast)
 
+- [TSGap: Composable time-series missingness simulation. Separates mechanisms (MCAR/MAR/MNAR) from patterns (pointwise/block/monotone/decay/markov)](https://github.com/feruzoripov/tsgap)
+
 
 ## Datasets
 - [TSDB: A Python Toolbox to Ease Loading Open-Source Time-Series Datasets (supporting 119 datasets)](https://github.com/WenjieDu/TSDB)
