@@ -389,6 +389,8 @@ Analysis and Embedding]() `AAAI 2022`
 
 - [Flow Forecast: A deep learning framework for time series forecasting, classification and anomaly detection built in PyTorch](https://github.com/AIStream-Peelout/flow-forecast)
 
+- [FrugalCast: browser benchmark of 30 frugal forecasting models (persistence, ARMA, Holt-Winters, Theta, ELM) with prediction intervals and 20 metrics](https://frugalcast.cyrilvoyant.com)
+
 
 ## Datasets
 - [TSDB: A Python Toolbox to Ease Loading Open-Source Time-Series Datasets (supporting 119 datasets)](https://github.com/WenjieDu/TSDB)
